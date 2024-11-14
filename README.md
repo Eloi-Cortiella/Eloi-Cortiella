@@ -1,5 +1,5 @@
 ## I'm Eloi-Cortiella
-I have knowledge in Python, PHP, Javascript, HTML, Tailwind CSS, and Bootstrap. I'm currently learning Kotlin for Android Studio, Java, Laravel, Javascript, Vue, and React. The tools I use include Visual Studio Code, JetBrains IntelliJ, PyCharm, and PhpStorm.
+I have knowledge in Python,  HTML. I'm currently learning Kotlin for Android Studio, Java, Laravel, Javascript, Vue, and React. The tools I use include Visual Studio Code, JetBrains IntelliJ, PyCharm, and PhpStorm.
 
 ### Main Stack
 | <div><img src="https://skillicons.dev/icons?i=python" alt="Python" /> <p>Python</p> </div> | <div><img src="https://skillicons.dev/icons?i=js" alt="Javascript" /> <p>Javascript</p> </div> | <div><img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <p>HTML</p> </div>
