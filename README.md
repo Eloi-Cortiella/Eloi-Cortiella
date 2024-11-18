@@ -1,5 +1,5 @@
 ## I'm Eloi-Cortiella
-I have knowledge in Python, and HTML. I'm currently learning Kotlin and Java. The tools I use include Visual Studio Code, JetBrains IntelliJ and PyCharm.
+I have knowledge in Python, and HTML. I'm currently learning Kotlin, Java and Javascript. The tools I use include Visual Studio Code, JetBrains IntelliJ and PyCharm.
 
 ### Main Stack
 | <div><img src="https://skillicons.dev/icons?i=python" alt="Python" /> <p>Python</p> </div> | <div><img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <p>HTML</p> </div>
