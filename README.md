@@ -3,11 +3,11 @@ I have knowledge in Python, and HTML. I'm currently learning Kotlin and Java. Th
 
 ### Main Stack
 | <div><img src="https://skillicons.dev/icons?i=python" alt="Python" /> <p>Python</p> </div> | <div><img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <p>HTML</p> </div>
-| --- | --- | ---
+| --- | ---
 
 ### What I'm learning right now
 | <div><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <p>Kotlin</p> </div> | <div><img src="https://skillicons.dev/icons?i=js" alt="Javascript" /> <p>Javascript</p> </div> | <div><img src="https://skillicons.dev/icons?i=java" alt="Java" /> <p>Java</p> </div> 
-| --- | ---
+| --- | --- | ---
 
 ### The tools I use
 | <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> | <div><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" /> <p>IntelliJ</p> </div> | <div><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> <p>PyCharm</p> </div>
