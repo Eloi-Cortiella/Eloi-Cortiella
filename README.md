@@ -10,8 +10,8 @@ I have knowledge in Python, and HTML. I'm currently learning Kotlin, Java and Ja
 | --- | --- | ---
 
 ### The tools I use
-| <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> | <div><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" /> <p>IntelliJ</p> </div> | <div><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> <p>PyCharm</p> </div>
-| --- | --- | ---
+| <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> | <div><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" /> <p>IntelliJ</p> </div> | <div><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> <p>PyCharm</p> </div> | <div><img src="https://skillicons.dev/icons?i=android" alt="Android" /> <p>Android Studio</p> </div> | <div><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> <p>PyCharm</p> </div> | <div><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /> <p>Flutter</p> </div>
+| --- | --- | --- | ---
 
 
 <p align="center">
