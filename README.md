@@ -6,8 +6,8 @@ I have knowledge in Python, and HTML. I'm currently learning Kotlin, Java and Ja
 | --- | ---
 
 ### What I'm learning right now
-| <div><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <p>Kotlin</p> </div> | <div><img src="https://skillicons.dev/icons?i=js" alt="Javascript" /> <p>Javascript</p> </div> | <div><img src="https://skillicons.dev/icons?i=java" alt="Java" /> <p>Java</p> </div> 
-| --- | --- | ---
+| <div><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <p>Kotlin</p> </div> | <div><img src="https://skillicons.dev/icons?i=js" alt="Javascript" /> <p>Javascript</p> </div> | <div><img src="https://skillicons.dev/icons?i=java" alt="Java" /> <p>Java</p> </div> | <div><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /> <p>Dart</p> </div> 
+| --- | --- | --- | ---
 
 ### The tools I use
 | <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> | <div><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" /> <p>IntelliJ</p> </div> | <div><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> <p>PyCharm</p> </div> | <div><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /> <p>Android Studio</p> </div> | <div><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /> <p>Flutter</p> </div>
