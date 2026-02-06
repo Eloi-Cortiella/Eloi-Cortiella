@@ -14,4 +14,4 @@ I have knowledge in Python, and HTML. I'm currently learning Kotlin, Java and Ja
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Eloi-Cortiella's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eloi-Cortiella&show_icons=true&theme=dark)
+![Eloi-Cortiella's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloi-cortiella&show_icons=true&theme=dark)
