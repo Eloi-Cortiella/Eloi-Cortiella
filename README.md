@@ -6,7 +6,7 @@ I have experience with Python and web technologies, and I’m continuously expan
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzByZDd4NnlzM2N5dWx6Y2RjbDdsd3BxdjF0bnZtZ2llOWdwYm91OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nhfE47B5flIwdIGqk/giphy.webp" alt="Zelda Gif" />
+  <img src="./assets/intro.gif" alt="Intro" />
 </p>
 
 ### Languages
