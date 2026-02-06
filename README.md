@@ -20,6 +20,11 @@ Tools I use include Visual Studio Code, IntelliJ IDEA, and PyCharm.
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/alpine.js-8BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+
 
 ### Databases
 ![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
