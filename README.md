@@ -1,6 +1,9 @@
 ## Eloi-Cortiella
-I have knowledge in Python, HTML, and SQL. I'm currently learning Kotlin, Java, and JavaScript.
-Tools I use include Visual Studio Code, IntelliJ IDEA, and PyCharm.
+
+IT professional with a Higher Technical Degree (CFGS) in Networked Computer Systems Administration (ASIX) and currently pursuing a Higher Technical Degree (CFGS) in Multiplatform Application Development (DAM). I work across backend and frontend development, with a strong focus on clean code, scalable architectures, and practical problem-solving.
+
+I have experience with Python and web technologies, and I’m continuously expanding my skills in Java, Kotlin, JavaScript, and modern frameworks and tooling.
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzByZDd4NnlzM2N5dWx6Y2RjbDdsd3BxdjF0bnZtZ2llOWdwYm91OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nhfE47B5flIwdIGqk/giphy.webp" alt="Zelda Gif" />
